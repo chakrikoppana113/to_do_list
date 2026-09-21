@@ -1,0 +1,11 @@
+employee_id,full_name,department,salary,hire_date,city
+101,Rahul Sharma,IT,65000,2021-06-15,Hyderabad
+102,Priya Reddy,HR,55000,2022-03-10,Bangalore
+103,Arjun Kumar,Finance,72000,2020-11-20,Chennai
+104,Sneha Patel,IT,68000,2023-01-05,Hyderabad
+105,Vikram Singh,Sales,60000,2021-09-12,Mumbai
+106,Ananya Rao,Finance,75000,2019-07-25,Pune
+107,Rohit Verma,Sales,58000,2022-08-18,Delhi
+108,Neha Gupta,HR,57000,2023-04-11,Hyderabad
+109,Kiran Reddy,IT,82000,2018-05-30,Bangalore
+110,Meena Das,Finance,70000,2020-02-14,Chennai
